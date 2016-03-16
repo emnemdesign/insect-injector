@@ -5,45 +5,45 @@ var insects = [
     name: 'And Nest Beetle',
     img: 'ant-nest-beetle.jpg',
     family: 'Carabidae',
-    size: [2,20],
+    size: [2, 20],
     food: {
-      eatsInsects:true,
-      eatsDung:true,
-      eatsPlants:false
+      eatsInsects: true,
+      eatsDung: true,
+      eatsPlants: false
     }
   },
   {
     name: 'Dung Beetle',
     img: 'dung-beetle.jpg',
     family: 'Scarabidae',
-    size: [20,30],
+    size: [20, 30],
     food: {
-    eatsInsects:false,
-    eatsDung:true,
-    eatsPlants:false
+      eatsInsects: false,
+      eatsDung: true,
+      eatsPlants: false
     }
   },
   {
     name: 'Stag Beetle',
     img: 'stag-beetle.jpg',
     family: 'Lucanidae',
-    size: [5,120],
+    size: [5, 120],
     food: {
-    eatsInsects:false,
-    eatsDung:false,
-    eatsPlants:true
+      eatsInsects: false,
+      eatsDung: false,
+      eatsPlants: true
     }
   },
   {
     name: 'Tortoise Beetle',
     img: 'tortoise-beetle.jpg',
     family: 'Cassidinae',
-    size: [1,18],
+    size: [1, 18],
     food: {
-    eatsInsects:false,
-    eatsDung:false,
-    eatsPlants:true
-  }
+      eatsInsects: false,
+      eatsDung: false,
+      eatsPlants: true
+    }
   }
 ];
 
